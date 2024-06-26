@@ -1,0 +1,146 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.First_part {
+    border-radius: 30px;
+    background-color:#FDEDEC;
+    display: flex;
+    margin-bottom: 20px;
+    height: 350px;
+    padding: 20px;
+}
+.search_section h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.search_section h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.search_section input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    width: 250px;
+}
+
+.search_section button {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #dab3b3;
+    border-radius: 0 5px 5px 0;
+    background-color: #E59866;
+    color: white;
+    cursor: pointer;
+}
+
+.search_section button:hover {
+    background-color:#D35400;
+}
+
+.image_section {
+    
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image_section img {
+    box-shadow:2px 2px 2px 2px gray;
+    border-radius: 20px; 
+    height: 350px;
+}
+
+.category {
+    background-color:#EBDEF0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+    border-radius: 30px;
+}
+
+.category_pic {
+    box-shadow:2px 2px 2px 2px grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 30px;
+    border-radius: 40px;
+    padding: 20px;
+    height: 220px;
+    width: 220px;
+}
+
+.category button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color:black;
+    position: relative;
+    left: 53px;
+    top:150px;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.category .category_pic button:hover {
+    background-color:plum;
+    color: darkmagenta;
+}
+
+#Horror{
+    background-image: url(./images/Horror.jpeg);
+}
+#Spiritual{
+    /* width: 400px; */
+    background-image: url(./images/Spiritual.jpg);
+}
+#Motivational{
+    background-image: url(./images/motivational.jpg);
+}
+#Romantic{
+    background-image: url(./images/romantic.jpg);
+}
+#Story{
+       background-image: url(./images/Story.jpg);
+}
+#All{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    box-shadow:2px 2px 2px 2px gray;
+    margin-top: 30px;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    background-image: url(./images/allBooks.jpeg);
+}
+#All button{
+    /* margin:50px; */
+    background-color: #E59866;
+
+}
+#All button:hover{
+    background-color: #D35400;
+}

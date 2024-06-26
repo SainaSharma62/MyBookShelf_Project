@@ -1,116 +1,162 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>My Bookshelf</title>
-        <link rel="stylesheet" href="home.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Bookshelf</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
 <body>
     <div class="main">
-       <div class="container" id="home">
-        
-           <div class="nav">
-            <ul>
-                <li id="l1">BookHaven</li>
-                <a href="#home"><li id = l2>Home</li></a>
-                <a href="#about"><li id="l3">About</li></a>
-                <a href="#contact"><li id = "l4">Contact</li></a>
-                <a href=""><li id="l5">Log In</li></a>
-            </ul>
-           </div>
-
+        <div class="container" id="home">
+            <div class="nav">
+                <ul>
+                    <li id="l1">My BookShelf</li>
+                    <a href="#home"><li id="l2">Home</li></a>
+                    <a href="#about"><li id="l3">About</li></a>
+                    <a href="#contact"><li id="l4">Contact</li></a>
+                    <li id="l5"><button type="button" class="btn btn-default btn-lg" id="myBtn">Log In</button></li>
+                </ul>
+            </div>
             <div class="content">
-                <h1 id="head">Your One-Stop
-                <br> Library for All  <br>Your Reading Needs</h1>
-                <h2 id="p">Where You Can Browse and Read Books <br> in Minutes </h2>
-
+                <h1 id="head">Your One-Stop<br>Library for All<br>Your Reading Needs</h1>
+                <h2 id="p">Where You Can Browse and Read Books<br>in Minutes</h2>
                 <img src="Image/img.png" alt="">
             </div>
         </div>
-        <hr id="hr1">
+        <hr>
         <div class="content2" id="about">
-            <h1>
-                About
-                <br>
-                The BookHaven
-            </h1>
+            <h1>About<br>The My BookShelf</h1>
             <div id="span">
-            <span>At Haven, we believe that reading is a gateway to a world of knowledge, imagination, and endless possibilities. Established in 2023, our mission is to provide book lovers with a diverse selection of books from various genres and authors. Whether you’re looking for the latest bestsellers, timeless classics, or hidden gems, we have something for every reader.</span>
+                <span>At MyBookShelf, we believe that reading is a gateway to a world of knowledge, imagination, and endless possibilities. Established in 2023, our mission is to provide book lovers with a diverse selection of books from various genres and authors. Whether you’re looking for the latest bestsellers, timeless classics, or hidden gems, we have something for every reader.</span>
             </div>
-
-            <div class="aboutinfo">
-                <img src="Image/img1.png" alt="">
-                <div class="info">
-                    <p>At Book Haven, we believe that every book has the power to transform lives, inspire dreams, and ignite passions. Our mission is to create a vibrant community where readers from all walks of life can come together to discover, discuss, and delight in the world of literature.</p>
-                    
-                </div>
-
-
-            </div>
-
+            <div class="aboutinfo"></div>
         </div>
-        <hr id = "hr2">
-
+        <hr>
         <div class="content3" id="contact">
-
             <h1>Contact With Us</h1>
             <div class="contactinfo">
                 <input type="text" value="" placeholder="Name">
-                <br>
-                <br>
+                <br><br>
                 <input type="email" placeholder="Email">
-                <br><br>                
+                <br><br>
                 <textarea name="" id="" placeholder="Message"></textarea>
                 <img src="Image/img3.jpg" alt="">
                 <button>Send</button>
             </div>
-
         </div>
-
-    
-    
-    <footer>
-        <div class="footer-content">
-            <div class="footer-section-about">
-                <h2>About Us</h2>
-                <p>Welcome to Book Haven, your ultimate destination for book lovers.
-                   Explore our curated collection, read reviews, and join our community!
-                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis corporis
-                   tenetur, facilis non saepe itaque nihil minima nemo unde, consectetur,
-                   cumque dolore nesciunt eligendi! Dolores veritatis sunt sequi mollitia asperiores.
-                </p>
-                  <div class="social">
-                    <a href="#"><i class="fa-brands fa-square-facebook" id=""></i></a>
-                    <a href="#"><i class="fa-brands fa-square-twitter"></i></a>
-                    <a href=""><i class="fa-brands fa-square-instagram"></i></a>
-                  </div>
+        <footer>
+            <div class="footer-content">
+                <div class="footer-section-about">
+                    <h2>About Us</h2>
+                    <p>Welcome to Book Haven, your ultimate destination for book lovers.
+                    Explore our curated collection, read reviews, and join our community!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis corporis
+                    tenetur, facilis non saepe itaque nihil minima nemo unde, consectetur,
+                    cumque dolore nesciunt eligendi! Dolores veritatis sunt sequi mollitia asperiores.</p>
+                    <div class="social">
+                        <a href="#"><i class="fab fa-facebook-square"></i></a>
+                        <a href="#"><i class="fab fa-twitter-square"></i></a>
+                        <a href="#"><i class="fab fa-instagram-square"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section-link">
+                    <h2>Quick Links</h2>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#">Books</a></li>
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="office">
+                    <div class="footer-header"><h3>Office</h3></div>
+                    <div class="office-des">
+                        <p>Here are many variations of passages of Lorem Ipsum available</p>
+                        <a href="mailto:manikmaity.haker2003@gmail.com">sainasharma23@navgurukul.org</a>
+                        <p class="num">+91-9403075818</p>
+                    </div>
+                </div>
+                <div class="footer-bottom">
+                    &copy; 2024 Book Haven. All rights reserved. | Designed by Our Team
+                </div>
             </div>
-
-            <div class="footer-section-link">
-                <h2>Quick Links</h2>
-                <ul>
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#">Books</a></li>
-                    <li><a href="#about">About Us</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                </ul>
-            </div>
-            <div class="office">
-                <div class="footer-header"><h3>Office</h3></div>
-                <div class="office-des"><p>Here are many variations of passages of Lorem Ipsum available</p><a href="mailto:manikmaity.haker2003@gmail.com">sainasharma23@navgurukul.org</a>
-                <p class="num">+91- 9403075818</p></div>
-            </div>
-            
-            <div class="footer-bottom">
-                &copy; 2024 Book Haven. All rights reserved. | Designed by Our Team
-            </div>
-        </div>
-    </footer>
+        </footer>
     </div>
 
-      
+    <!-- Login Modal -->
+    <div class="modal fade" id="loginModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header" style="padding:35px 50px;">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4><span class="glyphicon glyphicon-lock"></span> Login</h4>
+                </div>
+                <div class="modal-body" style="padding:40px 50px;">
+                    <form id="loginForm" role="form">
+                        <div class="form-group">
+                            <label for="login-username"><span class="glyphicon glyphicon-user"></span> Username</label>
+                            <input type="text" class="form-control" id="login-username" placeholder="Enter email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="login-password"><span class="glyphicon glyphicon-eye-open"></span> Password</label>
+                            <input type="password" class="form-control" id="login-password" placeholder="Enter password" required>
+                        </div>
+                        <div class="checkbox">
+                            <label><input type="checkbox" value="" checked>Remember me</label>
+                        </div>
+                        <button type="submit" class="btn btn-info btn-block"><span class="glyphicon glyphicon-off"></span> Login</button>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <p>Not a member? <a href="#" id="showSignup">Sign Up</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Signup Modal -->
+    <div class="modal fade" id="signupModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header" style="padding:35px 50px;">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4><span class="glyphicon glyphicon-lock"></span> Sign up</h4>
+                </div>
+                <div class="modal-body" style="padding:40px 50px;">
+                    <form id="signupForm" role="form">
+                        <div class="form-group">
+                            <label for="signup-name"><span class="glyphicon glyphicon-user"></span> Name</label>
+                            <input type="text" class="form-control" id="signup-name" placeholder="Enter Name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="signup-email"><span class="glyphicon glyphicon-user"></span> Email</label>
+                            <input type="email" class="form-control" id="signup-email" placeholder="Enter Email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="signup-password"><span class="glyphicon glyphicon-eye-open"></span> Password</label>
+                            <input type="password" class="form-control" id="signup-password" placeholder="Enter password" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="signup-confirm-password"><span class="glyphicon glyphicon-user"></span> Confirm Password</label>
+                            <input type="password" class="form-control" id="signup-confirm-password" placeholder="Confirm Password" required>
+                        </div>
+                        <button type="submit" class="btn btn-info btn-block"><span class="glyphicon glyphicon-off"></span> Signup</button>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <p>Already a member? <a href="#" id="showLogin">Login</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="Login.js"></script>
 </body>
 </html>

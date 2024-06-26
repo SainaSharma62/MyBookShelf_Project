@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "The Power of Positive Thinking",
+    "author": "Norman Vincent Peale",
+    "image": "./images/The Power of Positive Thinking.jpeg",
+    "publish_details": {
+      "publisher": "Prentice Hall",
+      "year": 1952
+    },
+    "pdf_link": "./pdf/the-power-of-positive-thinking.pdf",
+    "type": "motivational"
+  },
+  {
+    "id": 2,
+    "name": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "image": "./images/Think and Grow Rich.png",
+    "publish_details": {
+      "publisher": "The Ralston Society",
+      "year": 1937
+    },
+    "pdf_link": "./pdf/Think and Grow Rich.pdf",
+    "type": "motivational"
+  },
+  {
+    "id": 3,
+    "name": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "image": "./images/The 7 Habits of Highly Effective People.jpeg",
+    "publish_details": {
+      "publisher": "Free Press",
+      "year": 1989
+    },
+    "pdf_link": "./pdf/The 7 Habits of Highly Effective People.pdf",
+    "type": "motivational"
+  },
+  {
+    "id": 4,
+    "name": "Awaken the Giant Within",
+    "author": "Tony Robbins",
+    "image": "./images/Awaken the Giant Within.jpeg",
+    "publish_details": {
+      "publisher": "Free Press",
+      "year": 1991
+    },
+    "pdf_link": "./pdf/awaken-the-giant-within.pdf",
+    "type": "motivational"
+  },
+  {
+    "id": 5,
+    "name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+    "author": "Jen Sincero",
+    "image": "./images/You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life.jpeg",
+    "publish_details": {
+      "publisher": "Running Press",
+      "year": 2013
+    },
+    "pdf_link": "./pdf/You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life.pdf",
+    "type": "motivational"
+  },
+  {
+    "id": 6,
+    "name": "The Shining",
+    "author": "Stephen King",
+    "image": "./images/The Shining.jpeg",
+    "publish_details": {
+      "publisher": "Doubleday",
+      "year": 1977
+    },
+    "pdf_link": "./pdf/The Shining.pdf",
+    "type": "horror"
+  },
+  {
+    "id": 7,
+    "name": "Dracula",
+    "author": "Bram Stoker",
+    "image": "./images/Dracula.jpeg",
+    "publish_details": {
+      "publisher": "Archibald Constable and Company",
+      "year": 1897
+    },
+    "pdf_link": "./pdf/dracula.pdf",
+    "type": "horror"
+  },
+  {
+    "id": 8,
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "./images/Frankenstein.jpeg",
+    "publish_details": {
+      "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+      "year": 1818
+    },
+    "pdf_link": "./pdf/frankenstein.pdf",
+    "type": "horror"
+  },
+  {
+    "id": 9,
+    "name": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "image": "./images/The Haunting of Hill House.jpeg",
+    "publish_details": {
+      "publisher": "Viking",
+      "year": 1959
+    },
+    "pdf_link": "./pdf/The Haunting of Hill House.pdf",
+    "type": "horror"
+  },
+  {
+    "id": 10,
+    "name": "The Exorcist",
+    "author": "William Peter Blatty",
+    "image": "./images/The Exorcis.jpeg",
+    "publish_details": {
+      "publisher": "Harper & Row",
+      "year": 1971
+    },
+    "pdf_link": "./pdf/the exorcist.pdf",
+    "type": "horror"
+  },
+  {
+    "id": 11,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "./images/Pride and Prejudice.jpeg",
+    "publish_details": {
+      "publisher": "T. Egerton",
+      "year": 1813
+    },
+    "pdf_link": "./pdf/Pride and Prejudice.pdf",
+    "type": "romantic"
+  },
+  {
+    "id": 12,
+    "name": "The Notebook",
+    "author": "Nicholas Sparks",
+    "image": "./images/The Notebook.jpeg",
+    "publish_details": {
+      "publisher": "Warner Books",
+      "year": 1996
+    },
+    "pdf_link": "MyBookShelf_Project/pdf/The Notebook.pdf",
+    "type": "romantic"
+  },
+  {
+    "id": 13,
+    "name": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "image": "./images/Jane Eyre.jpeg",
+    "publish_details": {
+      "publisher": "Smith, Elder & Co.",
+      "year": 1847
+    },
+    "pdf_link": "./pdf/Jane Eyre.pdf",
+    "type": "romantic"
+  },
+  {
+    "id": 14,
+    "name": "Outlander",
+    "author": "Diana Gabaldon",
+    "image": "./images/Outlander.jpeg",
+    "publish_details": {
+      "publisher": "Delacorte Press",
+      "year": 1991
+    },
+    "pdf_link": ".pdf/Outlander_Outlander_Book_1_by_Diana_Gaba.pdf",
+    "type": "romantic"
+  },
+  {
+    "id": 15,
+    "name": "Me Before You",
+    "author": "Jojo Moyes",
+    "image": "./images/Me Before You.jpeg",
+    "publish_details": {
+      "publisher": "Michael Joseph",
+      "year": 2012
+    },
+    "pdf_link": "./pdf/Me Before You.pdf",
+    "type": "romantic"
+  },
+  {
+    "id": 16,
+    "name": "The Power of Now: A Guide to Spiritual Enlightenment",
+    "author": "Eckhart Tolle",
+    "image": "./images/The Power of Now: A Guide to Spiritual Enlightenment.jpeg",
+    "publish_details": {
+      "publisher": "New World Library",
+      "year": 1997
+    },
+    "pdf_link": "./pdf/The Power of Now: A Guide to Spiritual Enlightenment.pdf",
+    "type": "spiritual"
+  },
+  {
+    "id": 17,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "./images/The Alchemist.jpeg",
+    "publish_details": {
+      "publisher": "HarperCollins",
+      "year": 1988
+    },
+    "pdf_link": "./pdf/The Alchemist.pdf",
+    "type": "spiritual"
+  },
+  {
+    "id": 18,
+    "name": "Autobiography of a Yogi",
+    "author": "Paramahansa Yogananda",
+    "image": "./images/Autobiography of a Yogi.jpeg",
+    "publish_details": {
+      "publisher": "Self-Realization Fellowship",
+      "year": 1946
+    },
+    "pdf_link": "./pdf/autobiography-of-a-yogi.pdf",
+    "type": "spiritual"
+  },
+  {
+    "id": 19,
+    "name": "The Bhagavad Gita",
+    "author": "Vyasa",
+    "image": "./images/The Bhagavad Gita.jpeg",
+    "publish_details": {
+      "publisher": "Various Publishers",
+      "year": "Ancient"
+    },
+    "pdf_link": "./pdf/The Bhagavad Gita.pdf",
+    "type": "spiritual"
+  },
+  {
+    "id": 20,
+    "name": "The Tao Te Ching",
+    "author": "Lao Tzu",
+    "image": "./images/The Tao Te Ching.jpeg",
+    "publish_details": {
+      "publisher": "Various Publishers",
+      "year": "6th century BC"
+    },
+    "pdf_link": "./pdf/The Tao Te Ching.pdf",
+    "type": "spiritual"
+  },
+  {
+    "id": 21,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "image": "./images/Harry Potter and the Sorcerer's Stone.jpeg",
+    "publish_details": {
+      "publisher": "Scholastic",
+      "year": 1997
+    },
+    "pdf_link": "./pdf/Harry Potter and the Sorcerers Stone.pdf",
+    "type": "story"
+  },
+  {
+    "id": 22,
+    "name": "Charlotte's Web",
+    "author": "E.B. White",
+    "image": "./images/Charlotte's Web.jpeg",
+    "publish_details": {
+      "publisher": "Harper & Brothers",
+      "year": 1952
+    },
+    "pdf_link": "./pdf/Charlotte's Web.pdf",
+    "type": "story"
+  },
+  {
+    "id": 23,
+    "name": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "image": "./images/The Adventures of Huckleberry Finn.jpeg",
+    "publish_details": {
+      "publisher": "Chatto & Windus / Charles L. Webster And Company",
+      "year": 1884
+    },
+    "pdf_link": "./pdf/The Adventures of Huckleberry Finn.pdf",
+    "type": "story"
+  },
+  {
+    "id": 24,
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "image": "./images/The Chronicles of Narnia: The Lion, the Witch and the Wardrobe.jpeg",
+    "publish_details": {
+      "publisher": "Geoffrey Bles",
+      "year": 1950
+    },
+    "pdf_link": "./pdf/The Chronicles of Narnia: The Lion, the Witch and the Wardrobe.pdf",
+    "type": "story"
+  },
+  {
+    "id": 25,
+    "name": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "image": "./images/The Secret Garden.webp",
+    "publish_details": {
+      "publisher": "Frederick A. Stokes",
+      "year": 1911
+    },
+    "pdf_link": "./pdf/The Secret Garden.pdf",
+    "type": "story"
+  }
+]

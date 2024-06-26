@@ -9,7 +9,8 @@
       "year": 1952
     },
     "pdf_link": "./pdf/the-power-of-positive-thinking.pdf",
-    "type": "motivational"
+    "type": "motivational",
+    "summary": "Norman Vincent Peale teaches the power of optimism to transform life, emphasizing faith and self-belief. Practical techniques help readers achieve success through positive thinking."
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       "year": 1937
     },
     "pdf_link": "./pdf/Think and Grow Rich.pdf",
-    "type": "motivational"
+    "type": "motivational",
+    "summary": "Napoleon Hill's classic reveals the principles of wealth creation through focused desire, faith, and persistence. The book outlines actionable steps to achieve financial success."
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
       "year": 1989
     },
     "pdf_link": "./pdf/The 7 Habits of Highly Effective People.pdf",
-    "type": "motivational"
+    "type": "motivational",
+    "summary": "Stephen R. Covey presents a holistic approach to personal and professional effectiveness through seven habits. Practical advice helps readers prioritize and achieve balanced success."
   },
   {
     "id": 4,
@@ -45,7 +48,8 @@
       "year": 1991
     },
     "pdf_link": "./pdf/awaken-the-giant-within.pdf",
-    "type": "motivational"
+    "type": "motivational",
+    "summary": "Tony Robbins empowers readers to take control of their lives by mastering emotions, body, relationships, and finances. Strategies for personal development and fulfillment are detailed."
   },
   {
     "id": 5,
@@ -57,7 +61,8 @@
       "year": 2013
     },
     "pdf_link": "./pdf/You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life.pdf",
-    "type": "motivational"
+    "type": "motivational",
+    "summary": "Jen Sincero motivates readers to embrace their potential and create the life they desire. Humorous and practical advice encourages confidence, action, and personal growth."
   },
   {
     "id": 6,
@@ -69,7 +74,8 @@
       "year": 1977
     },
     "pdf_link": "./pdf/The Shining.pdf",
-    "type": "horror"
+    "type": "horror",
+    "summary": "Stephen King's chilling tale follows a family's terrifying experiences in an isolated hotel. Psychological suspense and supernatural occurrences unravel the dark secrets of the haunted Overlook."
   },
   {
     "id": 7,
@@ -81,7 +87,8 @@
       "year": 1897
     },
     "pdf_link": "./pdf/dracula.pdf",
-    "type": "horror"
+    "type": "horror",
+    "summary": "Bram Stoker's iconic novel introduces Count Dracula, a vampire who terrorizes London. Gothic horror blends with themes of superstition, love, and the battle between good and evil."
   },
   {
     "id": 8,
@@ -93,7 +100,8 @@
       "year": 1818
     },
     "pdf_link": "./pdf/frankenstein.pdf",
-    "type": "horror"
+    "type": "horror",
+    "summary": "Mary Shelley's novel explores the consequences of scientific ambition as Victor Frankenstein creates a monstrous being. Themes of identity, society's rejection, and moral responsibility unfold."
   },
   {
     "id": 9,
@@ -105,19 +113,21 @@
       "year": 1959
     },
     "pdf_link": "./pdf/The Haunting of Hill House.pdf",
-    "type": "horror"
+    "type": "horror",
+    "summary": "Shirley Jackson's atmospheric novel explores the supernatural occurrences at Hill House. Psychological tension and eerie phenomena disturb the guests, revealing the house's malevolent influence."
   },
   {
     "id": 10,
     "name": "The Exorcist",
     "author": "William Peter Blatty",
-    "image": "./images/The Exorcis.jpeg",
+    "image": "./images/The Exorcist.jpeg",
     "publish_details": {
       "publisher": "Harper & Row",
       "year": 1971
     },
     "pdf_link": "./pdf/the exorcist.pdf",
-    "type": "horror"
+    "type": "horror",
+    "summary": "William Peter Blatty's novel delves into the terrifying possession of a young girl and the battle between good and evil. Supernatural horror and theological themes intensify the chilling narrative."
   },
   {
     "id": 11,
@@ -129,7 +139,8 @@
       "year": 1813
     },
     "pdf_link": "./pdf/Pride and Prejudice.pdf",
-    "type": "romantic"
+    "type": "romantic",
+    "summary": "Jane Austen's classic novel explores love, class, and societal expectations in 19th-century England. Elizabeth Bennet and Mr. Darcy navigate misunderstandings and personal growth in this timeless romance."
   },
   {
     "id": 12,
@@ -141,7 +152,8 @@
       "year": 1996
     },
     "pdf_link": "MyBookShelf_Project/pdf/The Notebook.pdf",
-    "type": "romantic"
+    "type": "romantic",
+    "summary": "Nicholas Sparks weaves a poignant tale of enduring love between Noah and Allie. Set against the backdrop of North Carolina's coast, their emotional journey spans decades, testing the power of devotion."
   },
   {
     "id": 13,
@@ -153,7 +165,8 @@
       "year": 1847
     },
     "pdf_link": "./pdf/Jane Eyre.pdf",
-    "type": "romantic"
+    "type": "romantic",
+    "summary": "Charlotte Brontë's novel follows Jane Eyre's life journey, from orphanhood to independence and love. Themes of morality, passion, and social class intertwine in this enduring Gothic romance."
   },
   {
     "id": 14,
@@ -165,7 +178,8 @@
       "year": 1991
     },
     "pdf_link": ".pdf/Outlander_Outlander_Book_1_by_Diana_Gaba.pdf",
-    "type": "romantic"
+    "type": "romantic",
+    "summary": "Diana Gabaldon's epic saga blends historical fiction and romance as Claire Randall time-travels from 1945 to 18th-century Scotland. Her entanglement with Jamie Fraser sparks an unforgettable adventure across centuries."
   },
   {
     "id": 15,
@@ -177,126 +191,137 @@
       "year": 2012
     },
     "pdf_link": "./pdf/Me Before You.pdf",
-    "type": "romantic"
+    "type": "romantic",
+    "summary": "Jojo Moyes portrays the transformative relationship between Louisa Clark and Will Traynor. Their emotional journey challenges perspectives on life, love, and choices in this touching romantic novel."
   },
   {
     "id": 16,
-    "name": "The Power of Now: A Guide to Spiritual Enlightenment",
-    "author": "Eckhart Tolle",
-    "image": "./images/The Power of Now: A Guide to Spiritual Enlightenment.jpeg",
-    "publish_details": {
-      "publisher": "New World Library",
-      "year": 1997
-    },
-    "pdf_link": "./pdf/The Power of Now: A Guide to Spiritual Enlightenment.pdf",
-    "type": "spiritual"
-  },
-  {
-    "id": 17,
     "name": "The Alchemist",
     "author": "Paulo Coelho",
     "image": "./images/The Alchemist.jpeg",
     "publish_details": {
-      "publisher": "HarperCollins",
+      "publisher": "HarperOne",
       "year": 1988
     },
     "pdf_link": "./pdf/The Alchemist.pdf",
-    "type": "spiritual"
+    "type": "story",
+    "summary": "Paulo Coelho's philosophical tale follows Santiago, a shepherd, on a quest to discover his personal legend. The journey explores themes of destiny, dreams, and the interconnectedness of all life."
   },
   {
-    "id": 18,
-    "name": "Autobiography of a Yogi",
-    "author": "Paramahansa Yogananda",
-    "image": "./images/Autobiography of a Yogi.jpeg",
-    "publish_details": {
-      "publisher": "Self-Realization Fellowship",
-      "year": 1946
-    },
-    "pdf_link": "./pdf/autobiography-of-a-yogi.pdf",
-    "type": "spiritual"
-  },
-  {
-    "id": 19,
-    "name": "The Bhagavad Gita",
-    "author": "Vyasa",
-    "image": "./images/The Bhagavad Gita.jpeg",
-    "publish_details": {
-      "publisher": "Various Publishers",
-      "year": "Ancient"
-    },
-    "pdf_link": "./pdf/The Bhagavad Gita.pdf",
-    "type": "spiritual"
-  },
-  {
-    "id": 20,
-    "name": "The Tao Te Ching",
-    "author": "Lao Tzu",
-    "image": "./images/The Tao Te Ching.jpeg",
-    "publish_details": {
-      "publisher": "Various Publishers",
-      "year": "6th century BC"
-    },
-    "pdf_link": "./pdf/The Tao Te Ching.pdf",
-    "type": "spiritual"
-  },
-  {
-    "id": 21,
+    "id": 17,
     "name": "Harry Potter and the Sorcerer's Stone",
     "author": "J.K. Rowling",
     "image": "./images/Harry Potter and the Sorcerer's Stone.jpeg",
     "publish_details": {
-      "publisher": "Scholastic",
+      "publisher": "Bloomsbury",
       "year": 1997
     },
-    "pdf_link": "./pdf/Harry Potter and the Sorcerers Stone.pdf",
-    "type": "story"
+    "pdf_link": "./pdf/Harry Potter and the Sorcerer's Stone.pdf",
+    "type": "story",
+    "summary": "J.K. Rowling introduces Harry Potter, an orphan who discovers he is a wizard. Attending Hogwarts, he uncovers secrets about his past and faces dark forces threatening the magical world."
+  },
+  {
+    "id": 18,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "./images/To Kill a Mockingbird.jpeg",
+    "publish_details": {
+      "publisher": "J.B. Lippincott & Co.",
+      "year": 1960
+    },
+    "pdf_link": "./pdf/To Kill a Mockingbird.pdf",
+    "type": "story",
+    "summary": "Harper Lee's Pulitzer Prize-winning novel explores racial injustice and moral growth in the American South. Scout Finch narrates her father's defense of a black man falsely accused of rape."
+  },
+  {
+    "id": 19,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "./images/The Great Gatsby.jpeg",
+    "publish_details": {
+      "publisher": "Charles Scribner's Sons",
+      "year": 1925
+    },
+    "pdf_link": "./pdf/The Great Gatsby.pdf",
+    "type": "story",
+    "summary": "F. Scott Fitzgerald's classic portrays the decadence and excess of the Jazz Age. Jay Gatsby's tragic pursuit of the American Dream and lost love unfolds in a glittering yet hollow world."
+  },
+  {
+    "id": 20,
+    "name": "1984",
+    "author": "George Orwell",
+    "image": "./images/1984.jpeg",
+    "publish_details": {
+      "publisher": "Secker & Warburg",
+      "year": 1949
+    },
+    "pdf_link": "./pdf/1984.pdf",
+    "type": "story",
+    "summary": "George Orwell's dystopian novel depicts a totalitarian regime's oppressive control over society. Themes of surveillance, truth, and individuality are explored through the protagonist Winston Smith's rebellion."
+  },
+  {
+    "id": 21,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "./images/The Catcher in the Rye.jpeg",
+    "publish_details": {
+      "publisher": "Little, Brown and Company",
+      "year": 1951
+    },
+    "pdf_link": "./pdf/The Catcher in the Rye.pdf",
+    "type": "story",
+    "summary": "J.D. Salinger's novel follows Holden Caulfield's rebellious journey through New York City. Themes of teenage angst, alienation, and identity are explored as he grapples with adulthood and loss."
   },
   {
     "id": 22,
-    "name": "Charlotte's Web",
-    "author": "E.B. White",
-    "image": "./images/Charlotte's Web.jpeg",
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "image": "./images/The Da Vinci Code.jpeg",
     "publish_details": {
-      "publisher": "Harper & Brothers",
-      "year": 1952
+      "publisher": "Doubleday",
+      "year": 2003
     },
-    "pdf_link": "./pdf/Charlotte's Web.pdf",
-    "type": "story"
+    "pdf_link": "./pdf/The Da Vinci Code.pdf",
+    "type": "story",
+    "summary": "Dan Brown's thriller intertwines art, religion, and conspiracy as symbologist Robert Langdon unravels clues hidden in famous artworks. The mystery challenges historical narratives and provokes thought on faith."
   },
   {
     "id": 23,
-    "name": "The Adventures of Huckleberry Finn",
-    "author": "Mark Twain",
-    "image": "./images/The Adventures of Huckleberry Finn.jpeg",
+    "name": "The Fault in Our Stars",
+    "author": "John Green",
+    "image": "./images/The Fault in Our Stars.jpeg",
     "publish_details": {
-      "publisher": "Chatto & Windus / Charles L. Webster And Company",
-      "year": 1884
+      "publisher": "Dutton Books",
+      "year": 2012
     },
-    "pdf_link": "./pdf/The Adventures of Huckleberry Finn.pdf",
-    "type": "story"
+    "pdf_link": "./pdf/The Fault in Our Stars.pdf",
+    "type": "story",
+    "summary": "John Green's novel explores love and mortality through the lives of two teenage cancer patients, Hazel and Gus. Their poignant romance and philosophical reflections on life resonate deeply."
   },
   {
     "id": 24,
-    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "author": "C.S. Lewis",
-    "image": "./images/The Chronicles of Narnia: The Lion, the Witch and the Wardrobe.jpeg",
+    "name": "Life of Pi",
+    "author": "Yann Martel",
+    "image": "./images/Life of Pi.jpeg",
     "publish_details": {
-      "publisher": "Geoffrey Bles",
-      "year": 1950
+      "publisher": "Knopf Canada",
+      "year": 2001
     },
-    "pdf_link": "./pdf/The Chronicles of Narnia: The Lion, the Witch and the Wardrobe.pdf",
-    "type": "story"
+    "pdf_link": "./pdf/Life of Pi.pdf",
+    "type": "story",
+    "summary": "Yann Martel's novel tells the story of Pi Patel, a young boy stranded on a lifeboat with a Bengal tiger. Themes of survival, faith, and the human-animal connection are explored."
   },
   {
     "id": 25,
-    "name": "The Secret Garden",
-    "author": "Frances Hodgson Burnett",
-    "image": "./images/The Secret Garden.webp",
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "./images/The Hobbit.jpeg",
     "publish_details": {
-      "publisher": "Frederick A. Stokes",
-      "year": 1911
+      "publisher": "George Allen & Unwin",
+      "year": 1937
     },
-    "pdf_link": "./pdf/The Secret Garden.pdf",
-    "type": "story"
+    "pdf_link": "./pdf/The Hobbit.pdf",
+    "type": "story",
+    "summary": "J.R.R. Tolkien's fantasy adventure follows Bilbo Baggins on a quest to reclaim a lost kingdom. Encountering trolls, elves, and dragons, he discovers courage and the essence of heroism."
   }
 ]

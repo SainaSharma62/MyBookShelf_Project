@@ -16,6 +16,9 @@ body{
     top: 40px;
     
 }
+body{
+    height: 100vh;
+}
 
 
 .nav ul {
@@ -240,8 +243,8 @@ button:hover{
 
 footer{
     background-color:#fefefc;
-    position: relative;
-    top: 200px;
+    position: absolute;
+    top:1800px;
     height: 350px;
     border-radius:55px 5px 2px 2px  ;
     padding: 10px;
@@ -259,7 +262,7 @@ footer{
 
 .footer-section h2 {
     font-size: 26px;
-    margin-bottom: 10px;
+    margin-bottom: 10x;
 }
 
 .footer-section-links > ul  {

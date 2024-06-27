@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "name": "The Power of Positive Thinking",
+    "author": "Norman Vincent Peale",
+    "image": "./images/The Power of Positive Thinking.jpeg",
+    "publish_details": {
+      "publisher": "Prentice Hall",
+      "year": 1952
+    },
+    "pdf_link": "./pdf/the-power-of-positive-thinking.pdf",
+    "type": "motivational",
+    "summary": "Norman Vincent Peale teaches the power of optimism to transform life, emphasizing faith and self-belief. Practical techniques help readers achieve success through positive thinking."
+  },
+  {
+    "id": 2,
+    "name": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "image": "./images/Think and Grow Rich.png",
+    "publish_details": {
+      "publisher": "The Ralston Society",
+      "year": 1937
+    },
+    "pdf_link": "./pdf/Think and Grow Rich.pdf",
+    "type": "motivational",
+    "summary": "Napoleon Hill's classic reveals the principles of wealth creation through focused desire, faith, and persistence. The book outlines actionable steps to achieve financial success."
+  },
+  {
+    "id": 3,
+    "name": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "image": "./images/The 7 Habits of Highly Effective People.jpeg",
+    "publish_details": {
+      "publisher": "Free Press",
+      "year": 1989
+    },
+    "pdf_link": "./pdf/The 7 Habits of Highly Effective People.pdf",
+    "type": "motivational",
+    "summary": "Stephen R. Covey presents a holistic approach to personal and professional effectiveness through seven habits. Practical advice helps readers prioritize and achieve balanced success."
+  },
+  {
+    "id": 4,
+    "name": "Awaken the Giant Within",
+    "author": "Tony Robbins",
+    "image": "./images/Awaken the Giant Within.jpeg",
+    "publish_details": {
+      "publisher": "Free Press",
+      "year": 1991
+    },
+    "pdf_link": "./pdf/awaken-the-giant-within.pdf",
+    "type": "motivational",
+    "summary": "Tony Robbins empowers readers to take control of their lives by mastering emotions, body, relationships, and finances. Strategies for personal development and fulfillment are detailed."
+  },
+  {
+    "id": 5,
+    "name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+    "author": "Jen Sincero",
+    "image": "./images/You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life.jpeg",
+    "publish_details": {
+      "publisher": "Running Press",
+      "year": 2013
+    },
+    "pdf_link": "./pdf/You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life.pdf",
+    "type": "motivational",
+    "summary": "Jen Sincero motivates readers to embrace their potential and create the life they desire. Humorous and practical advice encourages confidence, action, and personal growth."
+  },
+  {
+    "id": 6,
+    "name": "The Shining",
+    "author": "Stephen King",
+    "image": "./images/The Shining.jpeg",
+    "publish_details": {
+      "publisher": "Doubleday",
+      "year": 1977
+    },
+    "pdf_link": "./pdf/The Shining.pdf",
+    "type": "horror",
+    "summary": "Stephen King's chilling tale follows a family's terrifying experiences in an isolated hotel. Psychological suspense and supernatural occurrences unravel the dark secrets of the haunted Overlook."
+  },
+  {
+    "id": 7,
+    "name": "Dracula",
+    "author": "Bram Stoker",
+    "image": "./images/Dracula.jpeg",
+    "publish_details": {
+      "publisher": "Archibald Constable and Company",
+      "year": 1897
+    },
+    "pdf_link": "./pdf/dracula.pdf",
+    "type": "horror",
+    "summary": "Bram Stoker's iconic novel introduces Count Dracula, a vampire who terrorizes London. Gothic horror blends with themes of superstition, love, and the battle between good and evil."
+  },
+  {
+    "id": 8,
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "./images/Frankenstein.jpeg",
+    "publish_details": {
+      "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+      "year": 1818
+    },
+    "pdf_link": "./pdf/frankenstein.pdf",
+    "type": "horror",
+    "summary": "Mary Shelley's novel explores the consequences of scientific ambition as Victor Frankenstein creates a monstrous being. Themes of identity, society's rejection, and moral responsibility unfold."
+  },
+  {
+    "id": 9,
+    "name": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "image": "./images/The Haunting of Hill House.jpeg",
+    "publish_details": {
+      "publisher": "Viking",
+      "year": 1959
+    },
+    "pdf_link": "./pdf/The Haunting of Hill House.pdf",
+    "type": "horror",
+    "summary": "Shirley Jackson's atmospheric novel explores the supernatural occurrences at Hill House. Psychological tension and eerie phenomena disturb the guests, revealing the house's malevolent influence."
+  },
+  {
+    "id": 10,
+    "name": "The Exorcist",
+    "author": "William Peter Blatty",
+    "image": "./images/The Exorcist.jpeg",
+    "publish_details": {
+      "publisher": "Harper & Row",
+      "year": 1971
+    },
+    "pdf_link": "./pdf/the exorcist.pdf",
+    "type": "horror",
+    "summary": "William Peter Blatty's novel delves into the terrifying possession of a young girl and the battle between good and evil. Supernatural horror and theological themes intensify the chilling narrative."
+  },
+  {
+    "id": 11,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "./images/Pride and Prejudice.jpeg",
+    "publish_details": {
+      "publisher": "T. Egerton",
+      "year": 1813
+    },
+    "pdf_link": "./pdf/Pride and Prejudice.pdf",
+    "type": "romantic",
+    "summary": "Jane Austen's classic novel explores love, class, and societal expectations in 19th-century England. Elizabeth Bennet and Mr. Darcy navigate misunderstandings and personal growth in this timeless romance."
+  },
+  {
+    "id": 12,
+    "name": "The Notebook",
+    "author": "Nicholas Sparks",
+    "image": "./images/The Notebook.jpeg",
+    "publish_details": {
+      "publisher": "Warner Books",
+      "year": 1996
+    },
+    "pdf_link": "MyBookShelf_Project/pdf/The Notebook.pdf",
+    "type": "romantic",
+    "summary": "Nicholas Sparks weaves a poignant tale of enduring love between Noah and Allie. Set against the backdrop of North Carolina's coast, their emotional journey spans decades, testing the power of devotion."
+  },
+  {
+    "id": 13,
+    "name": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "image": "./images/Jane Eyre.jpeg",
+    "publish_details": {
+      "publisher": "Smith, Elder & Co.",
+      "year": 1847
+    },
+    "pdf_link": "./pdf/Jane Eyre.pdf",
+    "type": "romantic",
+    "summary": "Charlotte Brontë's novel follows Jane Eyre's life journey, from orphanhood to independence and love. Themes of morality, passion, and social class intertwine in this enduring Gothic romance."
+  },
+  {
+    "id": 14,
+    "name": "Outlander",
+    "author": "Diana Gabaldon",
+    "image": "./images/Outlander.jpeg",
+    "publish_details": {
+      "publisher": "Delacorte Press",
+      "year": 1991
+    },
+    "pdf_link": ".pdf/Outlander_Outlander_Book_1_by_Diana_Gaba.pdf",
+    "type": "romantic",
+    "summary": "Diana Gabaldon's epic saga blends historical fiction and romance as Claire Randall time-travels from 1945 to 18th-century Scotland. Her entanglement with Jamie Fraser sparks an unforgettable adventure across centuries."
+  },
+  {
+    "id": 15,
+    "name": "Me Before You",
+    "author": "Jojo Moyes",
+    "image": "./images/Me Before You.jpeg",
+    "publish_details": {
+      "publisher": "Michael Joseph",
+      "year": 2012
+    },
+    "pdf_link": "./pdf/Me Before You.pdf",
+    "type": "romantic",
+    "summary": "Jojo Moyes portrays the transformative relationship between Louisa Clark and Will Traynor. Their emotional journey challenges perspectives on life, love, and choices in this touching romantic novel."
+  },
+  {
+    "id": 16,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "./images/The Alchemist.jpeg",
+    "publish_details": {
+      "publisher": "HarperOne",
+      "year": 1988
+    },
+    "pdf_link": "./pdf/The Alchemist.pdf",
+    "type": "story",
+    "summary": "Paulo Coelho's philosophical tale follows Santiago, a shepherd, on a quest to discover his personal legend. The journey explores themes of destiny, dreams, and the interconnectedness of all life."
+  },
+  {
+    "id": 17,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "image": "./images/Harry Potter and the Sorcerer's Stone.jpeg",
+    "publish_details": {
+      "publisher": "Bloomsbury",
+      "year": 1997
+    },
+    "pdf_link": "./pdf/Harry Potter and the Sorcerer's Stone.pdf",
+    "type": "story",
+    "summary": "J.K. Rowling introduces Harry Potter, an orphan who discovers he is a wizard. Attending Hogwarts, he uncovers secrets about his past and faces dark forces threatening the magical world."
+  },
+  {
+    "id": 18,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "./images/To Kill a Mockingbird.jpeg",
+    "publish_details": {
+      "publisher": "J.B. Lippincott & Co.",
+      "year": 1960
+    },
+    "pdf_link": "./pdf/To Kill a Mockingbird.pdf",
+    "type": "story",
+    "summary": "Harper Lee's Pulitzer Prize-winning novel explores racial injustice and moral growth in the American South. Scout Finch narrates her father's defense of a black man falsely accused of rape."
+  },
+  {
+    "id": 19,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "./images/The Great Gatsby.jpeg",
+    "publish_details": {
+      "publisher": "Charles Scribner's Sons",
+      "year": 1925
+    },
+    "pdf_link": "./pdf/The Great Gatsby.pdf",
+    "type": "story",
+    "summary": "F. Scott Fitzgerald's classic portrays the decadence and excess of the Jazz Age. Jay Gatsby's tragic pursuit of the American Dream and lost love unfolds in a glittering yet hollow world."
+  },
+  {
+    "id": 20,
+    "name": "1984",
+    "author": "George Orwell",
+    "image": "./images/1984.jpeg",
+    "publish_details": {
+      "publisher": "Secker & Warburg",
+      "year": 1949
+    },
+    "pdf_link": "./pdf/1984.pdf",
+    "type": "story",
+    "summary": "George Orwell's dystopian novel depicts a totalitarian regime's oppressive control over society. Themes of surveillance, truth, and individuality are explored through the protagonist Winston Smith's rebellion."
+  },
+  {
+    "id": 21,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "./images/The Catcher in the Rye.jpeg",
+    "publish_details": {
+      "publisher": "Little, Brown and Company",
+      "year": 1951
+    },
+    "pdf_link": "./pdf/The Catcher in the Rye.pdf",
+    "type": "story",
+    "summary": "J.D. Salinger's novel follows Holden Caulfield's rebellious journey through New York City. Themes of teenage angst, alienation, and identity are explored as he grapples with adulthood and loss."
+  },
+  {
+    "id": 22,
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "image": "./images/The Da Vinci Code.jpeg",
+    "publish_details": {
+      "publisher": "Doubleday",
+      "year": 2003
+    },
+    "pdf_link": "./pdf/The Da Vinci Code.pdf",
+    "type": "story",
+    "summary": "Dan Brown's thriller intertwines art, religion, and conspiracy as symbologist Robert Langdon unravels clues hidden in famous artworks. The mystery challenges historical narratives and provokes thought on faith."
+  },
+  {
+    "id": 23,
+    "name": "The Fault in Our Stars",
+    "author": "John Green",
+    "image": "./images/The Fault in Our Stars.jpeg",
+    "publish_details": {
+      "publisher": "Dutton Books",
+      "year": 2012
+    },
+    "pdf_link": "./pdf/The Fault in Our Stars.pdf",
+    "type": "story",
+    "summary": "John Green's novel explores love and mortality through the lives of two teenage cancer patients, Hazel and Gus. Their poignant romance and philosophical reflections on life resonate deeply."
+  },
+  {
+    "id": 24,
+    "name": "Life of Pi",
+    "author": "Yann Martel",
+    "image": "./images/Life of Pi.jpeg",
+    "publish_details": {
+      "publisher": "Knopf Canada",
+      "year": 2001
+    },
+    "pdf_link": "./pdf/Life of Pi.pdf",
+    "type": "story",
+    "summary": "Yann Martel's novel tells the story of Pi Patel, a young boy stranded on a lifeboat with a Bengal tiger. Themes of survival, faith, and the human-animal connection are explored."
+  },
+  {
+    "id": 25,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "./images/The Hobbit.jpeg",
+    "publish_details": {
+      "publisher": "George Allen & Unwin",
+      "year": 1937
+    },
+    "pdf_link": "./pdf/The Hobbit.pdf",
+    "type": "story",
+    "summary": "J.R.R. Tolkien's fantasy adventure follows Bilbo Baggins on a quest to reclaim a lost kingdom. Encountering trolls, elves, and dragons, he discovers courage and the essence of heroism."
+  }
+]

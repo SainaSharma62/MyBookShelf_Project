@@ -13,8 +13,14 @@ body{
     height: 100px;
     display:flex;
     position: relative;
-    top: 40px; 
+    top: 40px;
+    
 }
+body{
+    height: 100vh;
+}
+
+
 .nav ul {
     display: flex;
     flex-direction: row;
@@ -304,14 +310,4 @@ footer{
     position: relative;
     top: 20px;
     left: 100px;
-}
-
-.modal-header, h4, .close {
-    background-color: #c6ebed;
-    color: white !important;
-    text-align: center;
-    font-size: 30px;
-}
-.modal-footer {
-    background-color: #f9f9f9;
 }
